@@ -20,7 +20,7 @@ jobs:
           aws-region: ap-south-1   # adjust region if needed
 
       - name: Start EC2 instance
-        run: aws ec2 start-instances --instance-ids i-1234567890abcdef0
+        run: aws ec2 start-instances --instance-ids i-07b87b0eeb703f507
 
       - name: Describe EC2 instances
         run: aws ec2 describe-instances

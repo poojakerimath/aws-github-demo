@@ -1,1 +1,4 @@
 HELLO AWS!!
+Branching workflow: start experimenting with feature branches so you don’t always work directly on main.
+
+Git cleanup tips: learn how to remove unnecessary files (like .lnk shortcuts or desktop.ini) from version control.
